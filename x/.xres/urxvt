@@ -1,0 +1,11 @@
+URxvt.depth: 32
+*.scrollBar: false
+URxvt.cursorBlink: true
+URxvt.internalBorder: 20
+URxvt.geometry: 80x25
+
+URxvt.perl-ext-common: default,matcher
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.keysym.M-u: perl:matcher:select
+!URxvt.matcher.button: 1
+! vim: set ft=xdefaults :

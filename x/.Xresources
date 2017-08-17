@@ -1,0 +1,4 @@
+#include ".xres/xft"
+#include ".xres/urxvt"
+
+#include ".xres/vars"
