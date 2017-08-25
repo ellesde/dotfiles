@@ -1,0 +1,12 @@
+<html>
+<head><title>404 Not Found</title><script src="/cdn-cgi/apps/head/2Ij50KgAllptNznqedPKdC-rdQw.js"></script><script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=9eecb7db59/"},atok:"765ea2c68d968444b9b4f10ad3f538ce",petok:"29a4640eae78c2ee534491491a9eaf9d6bd9834f-1503663309-1800",adblock:1,performance:0,betok:"810aa6a2f57637c489c72b78257d72cde4615963-1503663309-120",zone:"wallhaven.cc",apps:{}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=b0b772d031/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+</head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

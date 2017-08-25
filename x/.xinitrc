@@ -6,5 +6,7 @@ if [$? = 0]; then
     VBoxClient-all &
 fi
 
-sxhkd &
+# Colorscheme
+wal -a "70" -i "wallpapers/lily-wine.jpg" 
+
 exec bspwm
