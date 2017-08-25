@@ -7,6 +7,6 @@ if [$? = 0]; then
 fi
 
 # Colorscheme
-wal -a "70" -i "wallpapers/lily-wine.jpg" 
+wal -a "80" -i "wallpapers/lily-wine.jpg" 
 
 exec bspwm

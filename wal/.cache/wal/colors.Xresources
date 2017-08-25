@@ -3,7 +3,7 @@
 URxvt*foreground:   #FCF0DC
 XTerm*foreground:   #FCF0DC
 UXTerm*foreground:  #FCF0DC
-URxvt*background:   [70]#020102
+URxvt*background:   [80]#020102
 XTerm*background:   #020102
 UXTerm*background:  #020102
 URxvt*cursorColor:  #FCF0DC
