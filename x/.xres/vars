@@ -1,6 +1,4 @@
 URxvt.font: xft:Hack:pixelsize=12:style=Bold
 URxvt.letterSpace: -1
 
-#include "../.xres/colors/lily-glass"
-
 ! vim: set ft=xdefaults :
