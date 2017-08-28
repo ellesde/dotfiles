@@ -1,0 +1,26 @@
+{
+    "wallpaper": "wallpapers/sakura-saber.png",
+    "special": {
+        "background": "#292428",
+        "foreground": "#FFFEFD",
+        "cursor": "#FFFEFD"
+    },
+    "colors": {
+        "color0": "#292428",
+        "color1": "#D594AE",
+        "color2": "#D4B8BE",
+        "color3": "#ECACD1",
+        "color4": "#ECCCD4",
+        "color5": "#FED4EE",
+        "color6": "#FEE8F4",
+        "color7": "#FFFEFD",
+        "color8": "#7e7b7e",
+        "color9": "#D594AE",
+        "color10": "#D4B8BE",
+        "color11": "#ECACD1",
+        "color12": "#ECCCD4",
+        "color13": "#FED4EE",
+        "color14": "#FEE8F4",
+        "color15": "#FFFEFD"
+    }
+}

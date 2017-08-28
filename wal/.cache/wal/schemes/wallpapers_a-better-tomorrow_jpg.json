@@ -1,0 +1,26 @@
+{
+    "wallpaper": "wallpapers/a-better-tomorrow.jpg",
+    "special": {
+        "background": "#050101",
+        "foreground": "#F7F2E2",
+        "cursor": "#F7F2E2"
+    },
+    "colors": {
+        "color0": "#050101",
+        "color1": "#5B9D38",
+        "color2": "#C6B757",
+        "color3": "#1C6B8B",
+        "color4": "#C258AD",
+        "color5": "#509CA7",
+        "color6": "#CABBA7",
+        "color7": "#F7F2E2",
+        "color8": "#696666",
+        "color9": "#5B9D38",
+        "color10": "#C6B757",
+        "color11": "#1C6B8B",
+        "color12": "#C258AD",
+        "color13": "#509CA7",
+        "color14": "#CABBA7",
+        "color15": "#F7F2E2"
+    }
+}

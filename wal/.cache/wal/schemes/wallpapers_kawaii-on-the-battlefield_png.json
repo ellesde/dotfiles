@@ -1,0 +1,26 @@
+{
+    "wallpaper": "wallpapers/kawaii-on-the-battlefield.png",
+    "special": {
+        "background": "#0F0C14",
+        "foreground": "#F0DCD8",
+        "cursor": "#F0DCD8"
+    },
+    "colors": {
+        "color0": "#0F0C14",
+        "color1": "#BC575E",
+        "color2": "#0B33A1",
+        "color3": "#656E8F",
+        "color4": "#AA838C",
+        "color5": "#ADA8BD",
+        "color6": "#E2A79F",
+        "color7": "#F0DCD8",
+        "color8": "#6f6d72",
+        "color9": "#BC575E",
+        "color10": "#0B33A1",
+        "color11": "#656E8F",
+        "color12": "#AA838C",
+        "color13": "#ADA8BD",
+        "color14": "#E2A79F",
+        "color15": "#F0DCD8"
+    }
+}

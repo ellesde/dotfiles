@@ -1,0 +1,26 @@
+{
+    "wallpaper": "wallpapers/lily-saber.jpg",
+    "special": {
+        "background": "#070710",
+        "foreground": "#DBDCE1",
+        "cursor": "#DBDCE1"
+    },
+    "colors": {
+        "color0": "#070710",
+        "color1": "#1F60A5",
+        "color2": "#4F9EC3",
+        "color3": "#96A5AF",
+        "color4": "#DBBCA7",
+        "color5": "#A2B8C9",
+        "color6": "#B5C5D5",
+        "color7": "#DBDCE1",
+        "color8": "#6a6a6f",
+        "color9": "#1F60A5",
+        "color10": "#4F9EC3",
+        "color11": "#96A5AF",
+        "color12": "#DBBCA7",
+        "color13": "#A2B8C9",
+        "color14": "#B5C5D5",
+        "color15": "#DBDCE1"
+    }
+}

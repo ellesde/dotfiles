@@ -1,0 +1,26 @@
+{
+    "wallpaper": "wallpapers/realistic-dva.png",
+    "special": {
+        "background": "#1A1A24",
+        "foreground": "#A4B3BE",
+        "cursor": "#A4B3BE"
+    },
+    "colors": {
+        "color0": "#1A1A24",
+        "color1": "#8D6C74",
+        "color2": "#2F6F8A",
+        "color3": "#53748B",
+        "color4": "#4445A5",
+        "color5": "#5B97A3",
+        "color6": "#4EA3B7",
+        "color7": "#A4B3BE",
+        "color8": "#75757b",
+        "color9": "#8D6C74",
+        "color10": "#2F6F8A",
+        "color11": "#53748B",
+        "color12": "#4445A5",
+        "color13": "#5B97A3",
+        "color14": "#4EA3B7",
+        "color15": "#A4B3BE"
+    }
+}

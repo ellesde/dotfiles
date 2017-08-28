@@ -1,0 +1,26 @@
+{
+    "wallpaper": "wallpapers/hatsune-2b.png",
+    "special": {
+        "background": "#1C1C1C",
+        "foreground": "#E5F1CC",
+        "cursor": "#E5F1CC"
+    },
+    "colors": {
+        "color0": "#1C1C1C",
+        "color1": "#909570",
+        "color2": "#758A87",
+        "color3": "#9FA999",
+        "color4": "#BACDAF",
+        "color5": "#B4C6B3",
+        "color6": "#CDCFB3",
+        "color7": "#E5F1CC",
+        "color8": "#767676",
+        "color9": "#909570",
+        "color10": "#758A87",
+        "color11": "#9FA999",
+        "color12": "#BACDAF",
+        "color13": "#B4C6B3",
+        "color14": "#CDCFB3",
+        "color15": "#E5F1CC"
+    }
+}

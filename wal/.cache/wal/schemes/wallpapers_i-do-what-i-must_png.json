@@ -1,0 +1,26 @@
+{
+    "wallpaper": "wallpapers/i-do-what-i-must.png",
+    "special": {
+        "background": "#201628",
+        "foreground": "#FDF6F3",
+        "cursor": "#FDF6F3"
+    },
+    "colors": {
+        "color0": "#201628",
+        "color1": "#868BAC",
+        "color2": "#A091B8",
+        "color3": "#D9AAB8",
+        "color4": "#ABA3CA",
+        "color5": "#D3B3CC",
+        "color6": "#ECD7DC",
+        "color7": "#FDF6F3",
+        "color8": "#79737e",
+        "color9": "#868BAC",
+        "color10": "#A091B8",
+        "color11": "#D9AAB8",
+        "color12": "#ABA3CA",
+        "color13": "#D3B3CC",
+        "color14": "#ECD7DC",
+        "color15": "#FDF6F3"
+    }
+}

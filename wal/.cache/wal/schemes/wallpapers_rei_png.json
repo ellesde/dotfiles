@@ -1,0 +1,26 @@
+{
+    "wallpaper": "wallpapers/rei.png",
+    "special": {
+        "background": "#25181C",
+        "foreground": "#FBB6AC",
+        "cursor": "#FBB6AC"
+    },
+    "colors": {
+        "color0": "#25181C",
+        "color1": "#604B56",
+        "color2": "#B13E44",
+        "color3": "#996264",
+        "color4": "#B07F82",
+        "color5": "#D89490",
+        "color6": "#E8B7AF",
+        "color7": "#FBB6AC",
+        "color8": "#7c7476",
+        "color9": "#604B56",
+        "color10": "#B13E44",
+        "color11": "#996264",
+        "color12": "#B07F82",
+        "color13": "#D89490",
+        "color14": "#E8B7AF",
+        "color15": "#FBB6AC"
+    }
+}
