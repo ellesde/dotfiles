@@ -2,7 +2,11 @@
 
 sxhkd &
 
-bspc monitor -d I II III IV V VI VII VIII IX X
+$HOME/.config/polybar/launch.sh
+
+urxvt &
+
+bspc monitor -d term ff
 
 bspc config border_width	1
 bspc config window_gap          18
