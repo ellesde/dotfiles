@@ -9,4 +9,6 @@ fi
 # Colorscheme
 wal -a "80" -i "wallpapers/lily-wine.png" 
 
+[[ -f ~/.xres/rofi ]] && xrdb -merge -I$HOME ~/.xres/rofi
+
 exec bspwm

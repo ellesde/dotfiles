@@ -1,0 +1,14 @@
+rofi.fullscreen: true
+rofi.padding: 150 
+rofi.lines: 7
+
+rofi.font: Hack 14
+
+rofi.separator-style: none
+rofi.hide-scrollbar: true
+rofi.bw: 0
+
+rofi.terminal: urxvt
+
+rofi.color-window: argb: 80010001, argb: 60010001, #EC5D64
+rofi.color-normal: argb: 00010001, #FDF2DD, argb: 00010001, argb: 80EC5D64, #010001
