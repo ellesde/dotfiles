@@ -4,6 +4,7 @@ call plug#begin('~/.config/nvim/bundle')
 Plug 'tpope/vim-sensible'
 Plug 'itchyny/lightline.vim'
 Plug 'cocopon/lightline-hybrid.vim'
+Plug 'edkolev/tmuxline.vim'
 
 call plug#end()
 filetype plugin indent on
@@ -74,8 +75,15 @@ let g:lightline = {
 	\ 'colorscheme': 'hybrid'
 	\ }
 " }}}
+
 " Clipboard settings {{{
 " http://stackoverflow.com/questions/20186975
 set clipboard^=unnamed
 set clipboard^=unnamedplus
+" }}}
+
+" Plugin settings {{{
+	" tmuxline {{{
+	let g:tmuxline_theme = 'lightline'
+	" }}}
 " }}}
